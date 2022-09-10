@@ -10,22 +10,22 @@
 
 ## **Live Demo**  💻 
 
->### _[**Live Link**](https://heyrintu-project14.netlify.app/)_
+>### _[**Live Link**](https://profound-babka-7d48d2.netlify.app/)_
 <br>
 
 ## **Preview**🔎
 <br>
 
 ## device view: 
-![mobile](./screenshot/allpc.jpg)
+![desktop](./ss/desktop.png)
 
 <br>
 
 
+>## Mobile view:
 <br>
 
-## Full screen view:
-![desktop](./screenshot/127.0.0.1_5500_index.html%20Desktop%20HD%202022-09-06%2022.58.33.jpg)
+![mobile](./ss/mobile.png)
 
 <br>
 
